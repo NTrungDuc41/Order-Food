@@ -1,0 +1,151 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.13.0/mapbox-gl.css' rel='stylesheet' />
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js'></script>
+<link rel='stylesheet'
+      href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css'
+      type='text/css' />
+
+<div class="container">
+
+    <div class="kimi-container">
+        <!--breadcrumb start-->
+  
+
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="maya-well-padding"></div>
+                <h1 class="heading-large">Say Hello</h1>
+                <h3>Back to Kimi</h3>
+                <div class="maya-well-padding"></div>
+                <p class="text-paragraph">Gửi Gmail tại <a href="mailto:grow@backtokimi.com" class="text-secondary">ducnguyen412k2@gmail.com</a><br>Hoặc đến gặp chúng tôi. Luôn có món ngon chờ bạn.</p>
+                <div>
+                    <h4 class="">Đến Trụ sở chính Kimi</h4>
+                    <address class="text-paragraph">
+                        Số Nhà 60 Tiên Hội - Đông Hội<br>
+                        Đông Anh - Hà Nội<br>
+                        Việt Nam<br>
+                        SĐT: 0382108926<br>
+                    </address>
+                </div>
+
+                
+                <div>
+                    <h4 class="">Có thể đến Trường GTVT</h4>
+                    <address class="text-paragraph">
+                        Cầu Giấy - Láng Thượng<br>
+                        Đống Đa - Hà Nội<br>
+                        Việt Nam<br>
+                    </address>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="list-share-circles">
+                            <ul>
+                                <li>
+                                    <button class="bt-circle">
+                                        <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                    </button>
+                                </li>
+                                <li>
+                                    <button class="bt-circle">
+                                        <i class="fa fa-facebook" aria-hidden="true"></i>
+                                    </button>
+                                </li>
+                                <li>
+                                    <button class="bt-circle">
+                                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                                    </button>
+                                </li>
+                                <li>
+                                    <button class="bt-circle">
+                                        <i class="fa fa-github" aria-hidden="true"></i>
+                                    </button>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div  id='map' style='margin-top:40px;width: 50%; height: 100vh;'></div>
+        </div>
+    </div>
+
+</div>
+<script>
+    //cau1
+    mapboxgl.accessToken =
+        'pk.eyJ1IjoiZHVjbmd1eWVuNDEiLCJhIjoiY2xmcjM4aG56MDFqdDN6bWh4aTl5bmNkNSJ9.TL3_vjwB7skVhoZX5XfFEw';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        center: [105.863700, 21.1011100], //Tọa độ lãnh thổ Việt Nam
+        zoom: 10
+
+    });
+
+    //cau2
+    var marker = new mapboxgl.Marker({
+        color: "red", //Màu của Marker là đỏ
+        draggable: true,
+        anchor: 'bottom', //Nhãn Hà Nội nằm dưới Marker
+    }).setLngLat([105.863700, 21.1011100]) //Thiết lập Marker tại hà Nội
+        .addTo(map);
+
+    map.addControl(new mapboxgl.NavigationControl({
+        showCompass: true,
+        showZoom: true,
+
+    }));
+    map.addControl(new mapboxgl.GeolocateControl({
+        positionOptions: {
+            enableHighAccuracy: true
+        },
+        trackUserLocation: true
+    }));
+    map.addControl(new mapboxgl.FullscreenControl());
+
+
+    //cau3
+    document.getElementById('buttons').addEventListener('click', (event) => {
+        const language = event.target.id.substr('button-'.length);
+
+        map.setLayoutProperty('country-label', 'text-field', [
+            'get',
+            `name_${language}`
+        ]);
+    });
+
+    //cau4
+    map.on('click', function (e) {
+        // Lấy vị trí click trên bản đồ
+        var coordinates = e.lngLat;
+
+        // Tạo đối tượng Marker và thêm vào bản đồ
+        var marker = new mapboxgl.Marker()
+            .setLngLat(coordinates)
+            .addTo(map);
+    });
+
+    //cau5
+    var directions = new MapboxDirections({
+        accessToken: mapboxgl.accessToken,
+        unit: 'metric',
+        profile: 'mapbox/driving-traffic',
+        interactive: true,
+    });
+
+    // Thêm đối tượng MapboxDirections vào bản đồ
+    map.addControl(directions, 'bottom-left');
+    directions.setOrigin([longitude1, latitude1]);
+    directions.setDestination([longitude2, latitude2]);
+
+</script>

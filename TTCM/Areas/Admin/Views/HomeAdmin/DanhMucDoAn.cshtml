@@ -1,0 +1,70 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using TTCM.Models;
+@using X.PagedList.Mvc.Core;
+@model IEnumerable<TTCM.Models.TDoAn>
+
+@{
+    ViewData["Title"] = "DanhMucDoAn";
+    Layout = "~/Areas/Admin/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<h2>Quản Lý Đồ Ăn</h2>
+
+<p>@TempData["Message"]</p>
+
+<p>
+    
+    <a class="btn btn-gradient-success" asp-action="ThemMonAnMoi">Create New</a>
+</p>
+<div style="text-align:center">
+    @using(Html.BeginForm("DanhMucDoAn","HomeAdmin")){
+    <b>Search by: </b>
+    @Html.RadioButton("searchby","tendoan")<text>Tên Đồ Ăn</text>
+    @Html.RadioButton("searchby","giatien")<text>Giá Tiền</text>
+    @Html.RadioButton("searchby","None",true)<text>None</text><br /><br />
+    @Html.TextBox("search")<input type="submit" value="Search" /><br /><br />
+    }
+</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                 Ảnh
+            </th>
+            <th>
+                Tên Món Ăn
+            </th>
+            <th>
+                Giá Lớn Nhất
+            </th>
+            <th>
+                Giá Nhỏ Nhất
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenDa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaLonNhat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+            </td>
+            
+            <td>
+                    <a class="btn btn-block btn-gradient-primary btn-lg font-weight-medium" asp-action="SuaMonAn" asp-route-maDa="@item.MaDa">Edit</a> |
+                    <a class="btn btn-block btn-gradient-primary btn-lg font-weight-medium" asp-action="XoaMonAn" asp-route-maDa="@item.MaDa">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

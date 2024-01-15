@@ -1,0 +1,2069 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TTCM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TTCM.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\article.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\article.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\kimi.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\kimi.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\owl_carousel\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\owl_carousel\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\owl_carousel\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\owl_carousel\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\prism\\prism.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\prism\\prism.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\css\\tipuesearch\\tipuesearch.css",
+      "PackagePath": "staticwebassets\\LayoutKimi\\css\\tipuesearch\\tipuesearch.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutKimi\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\IG_1.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\IG_1.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\IG_5.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\IG_5.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\IG_8.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\IG_8.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\add_photo_desktop.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\add_photo_desktop.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\add_photo_mobile.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\add_photo_mobile.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\add_product.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\add_product.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article0.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article0.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article1.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article4.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\article5.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\article5.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\aurelia_suci-headline-2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\aurelia_suci-headline-2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bakmi_48_logo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bakmi_48_logo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bang_gun_logo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bang_gun_logo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bca.gif",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bca.gif"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\birds-eye-1500w.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\birds-eye-1500w.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bolkus.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bolkus.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bolkus2.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bolkus2.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bolkus3.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bolkus3.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\bookmarked.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\bookmarked.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\brownies.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\brownies.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\browniesMini.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\browniesMini.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\cake.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\cake.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\cake_square.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\cake_square.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\cart.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\cart.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\cobaSVG.sketch",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\cobaSVG.sketch"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\courier.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\courier.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\coverSucicakes.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\coverSucicakes.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\deliciozo_logo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\deliciozo_logo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\email_logo.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\email_logo.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\face1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\face2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\face3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\face4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\fans_logo.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\fans_logo.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\figure.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\figure.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\figure2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\figure2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\figure3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\figure3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\figure4.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\figure4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\glass.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\glass.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\halal.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\halal.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\halal35.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\halal35.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\icon.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\icon.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\korean_food_square.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\korean_food_square.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\lapisSurabaya.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\lapisSurabaya.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\llball_logo.JPG",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\llball_logo.JPG"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\logo.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\logo2.jpeg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\logo2.jpeg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\mangkuk.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\mangkuk.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\mango.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\mango.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\map.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\map.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\mie_ijo_landscape.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\mie_ijo_landscape.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\moesli.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\moesli.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\nasi.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\nasi.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\nasi_bakar_ayam_woku_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\nasi_bakar_ayam_woku_2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\nasi_bakar_logo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\nasi_bakar_logo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\noodles2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\noodles2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\oats.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\oats.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pasta.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pasta.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pastry.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pastry.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pork.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pork.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pork_chop.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pork_chop.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pork_chop3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pork_chop3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\pork_chop_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\pork_chop_2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\portrait.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\portrait.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\portrait2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\portrait2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\premium.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\premium.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\premium_badge.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\premium_badge.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\questions.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\questions.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\related1.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\related1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\related2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\related2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\related3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\related3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\related4.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\related4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\risotto.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\risotto.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\risotto_square.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\risotto_square.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\roti_tawar_multigrain_landscape.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\roti_tawar_multigrain_landscape.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\satai_kambing.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\satai_kambing.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\seafood.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\seafood.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\seafood_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\seafood_2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\seafood_square.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\seafood_square.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\slider1.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\slider1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\slider2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\slider2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\slider3.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\slider3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sosisSolo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sosisSolo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sosisSolo_carousel.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sosisSolo_carousel.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sosisSolo_carousel_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sosisSolo_carousel_2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sosisSolo_landscape.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sosisSolo_landscape.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\spoon.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\spoon.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sriwijaya1.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sriwijaya1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sriwijaya2.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sriwijaya2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\sucicakes_logo.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\sucicakes_logo.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\Infographic 1.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\Infographic 1.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\ayam.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\ayam.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\ayam2.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\ayam2.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\bakpao.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\bakpao.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\bbq.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\bbq.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\burger.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\burger.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\cookies.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\cookies.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\cupcake kecil.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\cupcake kecil.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\cupcake tinggi.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\cupcake tinggi.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\dompet.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\dompet.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\donat.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\donat.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\egg.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\egg.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\ikan.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\ikan.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\kambing.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\kambing.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\kue basah 2.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\kue basah 2.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\kue basah.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\kue basah.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\kue.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\kue.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\lemper.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\lemper.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\mie.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\mie.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\motor.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\motor.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\nasi.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\nasi.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\pastry.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\pastry.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\pastry2.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\pastry2.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\pork.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\pork.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\roti tusuk.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\roti tusuk.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\sandwich tortilla.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\sandwich tortilla.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\svg\\sapi.svg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\svg\\sapi.svg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_bread.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_bread.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_cake.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_cake.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_coffee.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_coffee.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_doughnut.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_doughnut.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_fastfood.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_fastfood.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_healthy.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_healthy.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_indian.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_indian.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_japanese.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_japanese.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_juice.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_juice.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_korean.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_korean.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_nasi.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_nasi.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_noodle.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_noodle.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_pasta.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_pasta.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_seafood.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_seafood.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_waffle.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_waffle.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\tag_western.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\tag_western.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\teko.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\teko.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\vinthai_logo.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\vinthai_logo.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\wallet.png",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\wallet.png"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\images\\wedding_cake.jpg",
+      "PackagePath": "staticwebassets\\LayoutKimi\\images\\wedding_cake.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\kimi.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\kimi.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\npm.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\npm.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\owl_carousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\owl_carousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\prism\\prism.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\prism\\prism.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\tipusearch\\tipuesearch.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\tipusearch\\tipuesearch.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\tipusearch\\tipuesearch_content.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\tipusearch\\tipuesearch_content.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\tipusearch\\tipuesearch_set.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\tipusearch\\tipuesearch_set.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\LayoutKimi\\js\\truncator\\jquery.truncator.js",
+      "PackagePath": "staticwebassets\\LayoutKimi\\js\\truncator\\jquery.truncator.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA10.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA10.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA101.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA101.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA102.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA102.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA103.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA103.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA104.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA104.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA105.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA105.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA106.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA106.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA107.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA107.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA108.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA108.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA109.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA109.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA11.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA11.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA110.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA110.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA111.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA111.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA112.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA112.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA113.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA113.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA114.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA114.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA115.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA115.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA116.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA116.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA117.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA117.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA118.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA118.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA119.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA119.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA12.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA120.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA120.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA13.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA13.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA14.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA14.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA15.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA15.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA16.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA16.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA17.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA17.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA18.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA18.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA19.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA19.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA2.jpeg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA2.jpeg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA201.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA201.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA21.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA21.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA210.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA210.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA22.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA22.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA23.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA23.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA24.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA24.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA25.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA25.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA26.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA26.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA27.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA27.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA28.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA28.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA29.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA29.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA30.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA30.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA301.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA301.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA302.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA302.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA31.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA31.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA311.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA311.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA32.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA32.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA33.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA33.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA34.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA34.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA35.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA35.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA36.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA36.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA37.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA37.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA38.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA38.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA39.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA39.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA40.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA40.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA41.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA41.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA42.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA42.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA43.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA43.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA44.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA44.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA45.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA45.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA5.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA51.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA51.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA52.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA52.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA53.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA53.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA54.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA54.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA55.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA55.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA56.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA56.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA57.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA57.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA58.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA58.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA59.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA59.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA6.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA60.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA60.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA61.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA61.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA62.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA62.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA63.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA63.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA64.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA64.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA65.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA65.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA66.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA66.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA67.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA67.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA68.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA68.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA69.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA69.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA7.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA70.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA70.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA71.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA71.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA72.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA72.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA73.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA73.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA74.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA74.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA75.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA75.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA76.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA76.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA77.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA77.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA78.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA78.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA79.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA79.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA8.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA81.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA81.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA82.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA82.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA83.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA83.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA84.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA84.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA85.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA85.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA86.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA86.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA87.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA87.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA88.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA88.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA89.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA89.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA9.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA90.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA90.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA91.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA91.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA92.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA92.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA93.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA93.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\DA94.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\DA94.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH1.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH1.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH10.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH10.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH11.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH11.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH12.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH12.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH13.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH13.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH14.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH14.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH15.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH15.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH2.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH2.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH3.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH3.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH4.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH4.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH5.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH5.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH6.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH6.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH7.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH7.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH8.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH8.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\NH9.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\NH9.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\downvote.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\downvote.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\ProductImages\\ImagesDoan1\\upvote.jpg",
+      "PackagePath": "staticwebassets\\ProductImages\\ImagesDoan1\\upvote.jpg"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LT WEB\\TTCM\\TTCM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TTCM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TTCM.props",
+      "PackagePath": "build\\TTCM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TTCM.props",
+      "PackagePath": "buildMultiTargeting\\TTCM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TTCM.props",
+      "PackagePath": "buildTransitive\\TTCM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,85 @@
+﻿@model IEnumerable<CartItem>
+@using TTCM.Utility;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+
+<div class="container-fluid kimi-container less-padding">
+    <div class="homepage-slider owl-carousel owl-theme">
+    </div>
+</div>
+<div class="container">
+
+    <div class="kimi-container">
+
+
+        <div class="row">
+            <div class="col-md-8">
+                <div class="box-bg-white col-md-12">
+                    <h3 class="section-title">Shopping Cart</h3>
+                    @foreach(var item in Model){
+                    <div class="row">
+                        <div class="col-md-2 col-xs-6 less-padding-right">
+                                <img src="@Url.Content("../ProductImages/ImagesDoan1/"+item.Anh)" width="100%">
+                        </div>
+                        <div class="col-md-5 col-xs-12">
+                            <span>@item.TenDa</span><br>
+                            <p class="text-gray-3 text-thin">Sucicakes</p>
+                            <p class="section-title">@item.DonGia.ToVnd()</p>
+                                <a asp-action="RemoveCart" asp-controller="Cart" asp-route-maDa="@item.MaDa" class="btn btn-default outline-default-button outline-small-default-button">Remove</a>
+                        </div>
+
+                        <div class="col-md-3 col-xs-7">
+                            <p>Số Lượng</p>
+                                <div class="form-group pull-left">
+                                        <div>
+
+                                            @using (Html.BeginForm("CapNhapSoLuong", "Cart", new { @MaDa = item.MaDa }))
+                                            {
+                                                @Html.TextBox("Soluong", @item.SoLuong, new { type = "number", value = item.SoLuong }) <button type="submit">Cập nhật</button>
+                                            }
+                                            
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="col-md-2 col-xs-5">
+                            <p class="text-right">Thành Tiền </p>
+                            <p class="text-right section-title">@item.ThanhTien.ToVnd2()</p>
+                        </div>
+                    </div>
+                        
+                    <hr/>
+                    }
+                   
+
+
+                </div>
+                <div class="box-bg-white col-md-12" style="font-size:24px;">Tổng tiền : <font>@String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", ViewBag.TongTien)</font></div>
+                <a href="/Home/Index" class="btn btn-default pull-left button-black"> Tiếp tục mua sắm</a>
+                <a href="/Cart/ThanhToan" class="btn btn-default pull-right button-black">Thanh Toán</a>
+                <div class="clearfix maya-small-padding"></div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="box-bg-white">
+                    <div class="clearfix maya-small-padding"></div>
+                    <h3 class="text-right text-oswald">Need Help ? </h3>
+                    <p class="text-right text-gray-3 text-medium text-thin">Find any troubles? We will respond. Call or write question by email</p>
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <p class="text-gray-2 text-thin">Everyday<br>from 9.00 - 18.00</p>
+                        </div>
+                        <div class="col-md-6">
+                            <p class="text-right">+62 21 567898765<br><a class="text-black text-underline" href="mailto: info@backtokimi.com">info@backtokimi.com</a></p>
+                        </div>
+                    </div>
+                    <div class="clearfix maya-small-padding"></div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+</div>

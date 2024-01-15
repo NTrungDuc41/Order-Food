@@ -1,0 +1,97 @@
+﻿@model IEnumerable<TTCM.Models.THoaDonBan>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhMucDonHang";
+    Layout = "~/Areas/Admin/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<h2>DanhMucDonHang</h2>
+<div style="text-align:center">
+    @using (Html.BeginForm("DanhMucDonHang", "HomeAdmin"))
+    {
+        <b>Search by: </b>
+        @Html.RadioButton("searchby","trangthai")
+
+        <text>Trạng Thái</text>
+        @Html.RadioButton("searchby","tongtien")
+
+        <text>Tổng tiền</text>
+        @Html.RadioButton("searchby","None",true)
+
+        <text>None</text>
+
+        <br />
+
+        <br />
+        @Html.TextBox("search")
+
+        <input type="submit" value="Search" />
+
+        <br />
+
+        <br />
+    }
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Ngày Lập HDB
+            </th>
+            <th>
+                Giờ GHDK
+            </th>
+            
+            <th>
+                Tổng tiền
+            </th>
+            <th>
+                Địa chỉ
+            </th>
+            
+            <th>
+                Phương thức thanh toán
+            </th>
+            
+            <th>
+                Trạng Thái
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayHdb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GioGh)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.TongTienHdb)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DiaChiGh)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.PhuongThucThanhToan)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            
+            <td>
+                    <a class="btn btn-block btn-gradient-primary btn-lg font-weight-medium" asp-action="SuaDonHang" asp-route-mahdb="@item.MaHdb">Edit</a> |
+                    
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

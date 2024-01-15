@@ -1,0 +1,56 @@
+﻿
+@model TAccount
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+    <div class="container">
+
+        <div class="kimi-container">
+            <!--breadcrumb start-->
+        
+
+            <div class="clearfix"></div>
+
+
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4">
+                    <div class="row">
+                        <div class="box-bg-white col-md-12 col-xs-12 form-medium-padding">
+                            <h3 class="text-center text-gray-1">Log in with Your Account</h3>
+                            <div class="clearfix maya-tiny-padding"></div>
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <button class="button-connect-facebook btn-block">Connect with Facebook <i class="fa fa-facebook" aria-hidden="true"></i></button>
+                                </div>
+                            </div>
+                            <div class="clearfix maya-small-padding"></div>
+
+                            @*<form>*@
+                                @using(Html.BeginForm("Login","Access",FormMethod.Post)){ 
+                                <div class="form-group">
+                                    @Html.TextBoxFor(x=>x.Username,new{@class="form-control",placeholder="UserName",
+                                    required="required",autofocus="autofocus"})
+                                    @*<input type="email" class="form-control" id="exampleInputEmail1" placeholder="UserName">*@
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBoxFor(x=>x.Password,new{@class="form-control",type="password", placeholder="Password",
+                                required="required",autofocus="autofocus"})
+                                    @*<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">*@
+                                </div>  
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox"> <span class="text-gray-2 helvetica-12">Keep me Logged in</span>
+                                    </label>
+                                </div>   
+                            <button type="submit" class="btn btn-block button-green-free btn-lg">Submit</button>
+                            } @*</form>*@
+                            <div class="clearfix maya-tiny-padding"></div>
+                        <p class="text-center">Not a member yet? <a asp-controller="Access" asp-action="CreateAccount" class="text-secondary">Register</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+

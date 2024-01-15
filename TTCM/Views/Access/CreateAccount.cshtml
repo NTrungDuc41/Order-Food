@@ -1,0 +1,118 @@
+﻿@model TAccount
+@{
+    ViewData["Title"] = "CreateAccount";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+
+<div class="container">
+
+    <div class="kimi-container">
+        <!--breadcrumb start-->
+        <ol class="breadcrumb hidden-xs">
+            <li><a href="index.html">Home</a></li>
+            <li class="active">Register</li>
+        </ol>
+
+        <div class="clearfix"></div>
+        
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4">
+                <div class="row">
+                    <div class="box-bg-white col-md-12 col-xs-12 form-medium-padding">
+                        <h3 class="text-center text-gray-1">Create Kimi Account</h3>
+                        <div class="clearfix maya-tiny-padding"></div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <button class="button-connect-google btn-block">Connect with Google <i class="fa fa-google" aria-hidden="true"></i></button>
+                            </div>
+                        </div>
+                        <div class="clearfix maya-small-padding"></div>
+
+                        @*<form>*@
+                        @using (Html.BeginForm("CreateAccount", "Access", FormMethod.Post, new { onsubmit = "return valid();" }))
+                        {
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.Username,new{@class="form-control",placeholder="UserName",
+                            required="required",autofocus="autofocus",id="Username"})
+                                @*<input type="text" class="form-control" id="fullname" placeholder="Full Name">*@
+                            </div>
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.TenKhachHang,new{@class="form-control",placeholder="TenKH",
+                            required="required",autofocus="autofocus",})
+                                @*<input type="email" class="form-control" id="email" placeholder="Email">@**@
+                            </div>
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.Password,new{@class="form-control",type="password", placeholder="Password",
+                            required="required",autofocus="autofocus",id="password"})
+                                @*<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">*@
+                            </div>
+                            <div class="form-group">
+                                
+                                <input type="password" class="form-control" id="repassword" name="repassword" placeholder="Re-Password">
+                                
+                            </div>
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.SoDienThoai,new{@class="form-control",type="tel",placeholder="Số Điện Thoại",
+                            required="required",autofocus="autofocus",id="phone"})
+                                @*<input type="tel" class="form-control" id="mobilenumber" placeholder="Mobile Number">*@
+                            </div>
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.Email,new{@class="form-control",placeholder="Email",
+                            required="required",autofocus="autofocus"})
+                                @*<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">*@
+                            </div>
+                            <div class="form-group">
+                                @Html.TextBoxFor(x=>x.DiaChi,new{@class="form-control",placeholder="DiaChi",
+                            required="required",autofocus="autofocus"})
+                                @*<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">*@
+                            </div>
+                            <button type="submit" class="btn btn-block button-green-free btn-lg">Create Account</button>
+                            }
+                            @*
+                            </form>
+                            *@
+                        <div class="clearfix maya-tiny-padding"></div>
+                        <p class="text-center">Already a member? <a asp-controller="Access" asp-action="Login" class="text-secondary">Login</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script type="text/javascript">
+    ffunction valid() {
+    var username = document.getElementById("Username").value;
+    var password = document.getElementById("password").value;
+    var repassword = document.getElementById("repassword").value;
+    var phone = document.getElementById("phone").value;
+
+    if (username.length < 6 || username.length > 20 || !/^[a-zA-Z0-9._]+$/.test(username) || /^\.|\.+$|__+|[_\.]{2}/.test(username)) {
+        alert("Tên tài khoản không hợp lệ");
+        return false;
+    }
+
+    if (password.length < 6) {
+        alert("Mật khẩu phải có ít nhất 6 ký tự");
+        return false;
+    }
+
+    if (username === password) {
+        alert("Tên tài khoản và mật khẩu không được giống nhau");
+        return false;
+    }
+    if (repassword === password) {
+        alert("Mật khẩu xác nhận phải trùng với mật khẩu");
+        return false;
+    }
+
+    if (!/^[0-9]{10,12}$/.test(phone)) {
+        alert("Số điện thoại không hợp lệ");
+        return false;
+    }
+
+    return true;
+}
+</script>

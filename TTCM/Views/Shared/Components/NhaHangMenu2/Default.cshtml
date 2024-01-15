@@ -1,0 +1,8 @@
+﻿@model IEnumerable<TNhaHang>
+@foreach(var item in Model){
+    <a asp-asp-controller="Home" asp-action="DoAnTheoNhaHang" asp-route-maNh="@item.MaNh" class="item">
+    <div class="scrim"></div>
+    <p>@item.TenNhaHang</p>
+        <img style="height:125px" src="@Url.Content("../ProductImageS/ImagesDoan1/"+item.AnhNh)" width="100%">
+</a>
+}

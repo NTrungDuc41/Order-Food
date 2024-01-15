@@ -1,0 +1,62 @@
+﻿@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDoAn>
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+    //dường dẫn
+}
+<div class="container-fluid kimi-container less-padding">
+        <div class="homepage-slider owl-carousel owl-theme">
+            @await Html.PartialAsync("Slide")
+        </div>
+    </div>
+
+    <div class="container-fluid less-padding">
+        <h3 class="default-userProductList-InfoBar-title text-center"><i class="fa fa-heart-o" aria-hidden="true"></i> BXH NHÀ HÀNG</h3>
+        <div class="small-slider owl-carousel owl-theme">
+            @await Component.InvokeAsync("NhaHangMenu2")
+        </div>
+    </div>
+
+    <div class="clearfix maya-tiny-padding"></div>
+    <div class="container">
+        <div class="">
+            <div class="clearfix"></div>
+            <div class="row">
+                <h2 class="default-userProductList-InfoBar-title text-center"><i class="fa fa-heart-o" aria-hidden="true"></i> CÁC MÓN ĂN</h2>
+                    @foreach (var item in Model)
+                {
+                @await Html.PartialAsync("PartialDoAn",item)
+                }
+            </div>
+        </div>
+
+ <div class="col-md-12 hidden-xs text-center">
+    <!--pagination-->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li class="current" >@Html.PagedListPager(Model, page=>Url.Action("Index",new{page = page}))</li>
+        </ul>
+    </nav>
+    <!--pagination ends-->
+</div>
+
+
+<style>
+        ul.pagination li span {
+            letter-spacing: 0.4px;
+            font-family: Roboto;
+            font-weight: 300;
+            font-size: 15px;
+            border: 1px solid #E7EAEA;
+            /*padding: 8px 20px;*/
+            /*border-radius: 2px;*/
+            background: white;
+            color: #7d7d7d;
+            height: 60px;
+            width: 60px;
+            line-height: 50px;
+            text-align: center;
+        }
+</style>

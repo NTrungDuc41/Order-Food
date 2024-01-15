@@ -1,0 +1,201 @@
+﻿@using TTCM.Models;
+@model List<CartItem>
+@using TTCM.Utility;
+@{
+    ViewData["Title"] = "ThanhToan";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(function () {
+        $("#DVVC").autocomplete({
+            source: function (request, response) {
+                $.ajax({
+                    url: "/Controller/GetDVVC",
+                    type: "POST",
+                    dataType: "json",
+                    data: { term: request.term },
+                    success: function (data) {
+                        response(data);
+                    }
+                });
+            },
+            minLength: 1 // Số ký tự tối thiểu để kích hoạt AutoComplete
+        });
+</script>
+<div class="container">
+
+    <div class="kimi-container">
+        <!--breadcrumb start-->
+       
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-8">
+                <div class="box-bg-white">
+                   
+                    <h3 class="section-title">Alamat Pengiriman</h3>
+
+                    <div class="row">
+                        <div class="col-md-9">
+                                @using (Html.BeginForm())
+                                {
+                                <div class="form-group">
+                                    @Html.TextBox("Name", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập tên tài khoản",id="Username" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBox("Phone", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập số điện thoại",id="phone" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBox("Email", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập Gmail" })
+                                </div>
+                                <div class="form-group">
+                                     @Html.TextBox("Address", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập địa chỉ" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBox("DVVC", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập tên đơn vị vận chuyển" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.TextBox("PTTT", "", htmlAttributes: new { @class = "form-control", @placeholder = "Nhập phương thức thanh toán " })
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-5 col-xs-6">
+                                        <label for="ngay">Chọn ngày:</label>
+                                        @Html.TextBox("Ngay", null, new { type = "date", @class = "form-control" })
+                                    </div>
+                                    <div class="col-md-5 col-xs-6">
+                                        <label for="thoi-gian">Chọn thời gian:</label>
+                                        @Html.TextBox("Gio", null, new { type = "time", @class = "form-control" })
+                                    </div>
+                                    
+                                </div>
+                                <div class="clearfix" style="margin-bottom: 15px;"></div>
+
+                                
+
+                                <div class="form-group">
+                                    @Html.TextBox("GhiChu", "", htmlAttributes: new { @class = "form-control", @placeholder = "Ghi Chú" })
+                                </div>
+                                
+                                <img src="../LayoutKimi/images/map.png" width="100%">
+
+                                
+
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox"> Save this information for next time
+                                    </label>
+                                </div>
+                                <div class="">
+                                    @{
+                                        if (Model.Count != 0)
+                                        {
+                                            <button onsubmit="valid()" type="submit" class="btn btn-success">Xác nhận</button>
+                                            @*<button type="submit" class="btn btn-success">Xác nhận</button>*@
+                                        }
+                                        else
+                                        {
+                                            <button type="button" class="btn btn-success" disabled>Xác nhận</button>
+                                        }
+                                    }
+
+                                </div>
+
+                            }
+                        </div>
+                    </div>
+                </div>
+                
+                <a href="/Home/Index" class="btn btn-default pull-right button-black hidden-xs">Continue to Shopping</a>
+                
+                <div class="clearfix maya-small-padding"></div>
+
+            </div>
+            @Html.AntiForgeryToken()
+            <div class="col-md-4">
+                
+                <div class="box-bg-white hidden-xs">
+                @foreach(var item in Model){
+                    <div class="row">
+                        <div class="col-md-2 col-xs-6 less-padding-right">
+                           <img src="@Url.Content("../ProductImages/ImagesDoan1/"+item.Anh)" width="100%">
+                        </div>
+                        <div class="col-md-6 col-xs-12">
+                            <span>@item.TenDa</span><br>
+                                <span class="text-gray-2 text-thin">@item.SoLuong</span>
+                        </div>
+                        <div class="col-md-4 col-xs-5">
+                            <p class="text-right"></p>
+                        </div>
+                         <div class="clearfix maya-small-padding">@String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", item.ThanhTien)</div>
+                    </div>
+                    }
+
+                    <hr>
+                    
+                    <div class="row">
+                        <div class="col-sm-4 less">Total</div>
+                            <div class="col-sm-8 text-right"><h3 class="less-margin"> @String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", ViewBag.TongTien ?? 0)</h3></div>
+                    </div>
+                </div>
+                
+
+                <div class="clearfix"></div>
+
+
+
+                <div class="box-bg-white">
+                    <div class="clearfix maya-small-padding"></div>
+                    <h4 class="text-right text-oswald">CÁC ĐƠN VỊ VẬN CHUYỂN BÊN CHÚNG TÔI </h4>
+                    <p class="text-right text-gray-3 text-medium text-thin">Grap  ----  10.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">Uber  ----  25.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">Baemin  ----  12.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">Ahamove  ----  24.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">Loship  ----  35.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">Vietnammm  ----  36.000 VNĐ</p>
+                    <p class="text-right text-gray-3 text-medium text-thin">MCSVN  ----  42.000 VNĐ</p>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    ffunction valid() {
+        var username = document.getElementById("Username").value;
+        var password = document.getElementById("password").value;
+        
+        var phone = document.getElementById("phone").value;
+
+        if (username.length < 6 || username.length > 20 || !/^[a-zA-Z0-9._]+$/.test(username) || /^\.|\.+$|__+|[_\.]{2}/.test(username)) {
+            alert("Tên tài khoản không hợp lệ");
+            return false;
+        }
+
+        if (password.length < 6) {
+            alert("Mật khẩu phải có ít nhất 6 ký tự");
+            return false;
+        }
+
+        if (username === password) {
+            alert("Tên tài khoản và mật khẩu không được giống nhau");
+            return false;
+        }
+        if (repassword === password) {
+            alert("Mật khẩu xác nhận phải trùng với mật khẩu");
+            return false;
+        }
+
+        if (!/^[0-9]{10,12}$/.test(phone)) {
+            alert("Số điện thoại không hợp lệ");
+            return false;
+        }
+
+        return true;
+    }
+</script>

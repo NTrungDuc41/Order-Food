@@ -1,0 +1,64 @@
+﻿@using TTCM.Models;
+@using X.PagedList.Mvc;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TTCM.Models.TDoAn>
+@using TTCM.Utility;
+@{
+    ViewData["Title"] = "KetQuaTimKiem";
+    Layout = "~/Views/Shared/_LayoutKimi.cshtml";
+}
+<div class="container-fluid kimi-container less-padding">
+    <div class="homepage-slider owl-carousel owl-theme">
+        @if (TempData["Message"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["Message"]
+            </div>
+        }
+    </div>
+</div>
+<div class="clearfix maya-tiny-padding"></div>
+<div class="container">
+    <div class="">
+        <div class="clearfix"></div>
+        <div class="row">
+            <h2 class="default-userProductList-InfoBar-title text-center"><i class="fa fa-heart-o" aria-hidden="true"></i> KẾT QUẢ TÌM KIẾM</h2>
+@foreach(var item in Model){
+    <div class="col-sm-6 col-md-4" data-behavior="sample_code" height="500px">
+        <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-maDa="@item.MaDa" class="thumbnail_item thumbnail less-padding less-margin">
+            <img style="height:250px" src="@Url.Content("../ProductImages/ImagesDoan1/"+item.Anh)" alt="Moesli">
+        </a>
+        <div class="caption box">
+            <h3>@item.TenDa</h3>
+            <div class="row">
+                <div class="col-sm-8 col-xs-6">
+                    <p class="default-userProductList-CardList-price">@item.GiaNhoNhat</p>
+                </div>
+
+                <div class="col-sm-4 col-xs-6">
+                    <a asp-action="AddToCart" asp-controller="Cart" asp-route-maDa="@item.MaDa" asp-route-SoLuong="1" class="btn default-userProductList-CardList-button pull-right" role="button">Add to Cart</a>
+                </div>
+                <div class="product">
+                    <div class="vote">
+                        <a asp-action="DanhGiaSanPham" asp-controller="DanhGia" asp-route-maDa="@item.MaDa"><img style="width:25px;height:25px;margin-right:7px;margin-right:3px" src="../ProductImages/ImagesDoan1/upvote.jpg" alt="Upvote"></a>
+                            <span class="vote-count">@item.Vote</span>
+                    <a asp-action="DanhGiaSanPham2" asp-controller="DanhGia" asp-route-maDa="@item.MaDa"><img style="width:25px;height:25px;margin-right:7px;margin-right:3px" src="../ProductImages/ImagesDoan1/downvote.jpg" alt="Downvote"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+</div>
+</div>
+</div>
+
+<div class="col-md-12 hidden-xs text-center">
+    <!--pagination-->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li class="current">@Html.PagedListPager(Model, page=>Url.Action("Index",new{page = page}))</li>
+        </ul>
+    </nav>
+    <!--pagination ends-->
+</div>

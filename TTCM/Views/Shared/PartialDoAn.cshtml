@@ -1,0 +1,27 @@
+﻿@using TTCM.Utility;
+<div class="col-sm-6 col-md-4" data-behavior="sample_code" height="500px">
+    <a asp-controller="Home" asp-action="ChiTietSanPham" asp-route-maDa="@Model.MaDa" class="thumbnail_item thumbnail less-padding less-margin">
+        <img style="height:250px" src="@Url.Content("../ProductImages/ImagesDoan1/"+Model.Anh)" alt="Moesli">
+    </a>
+    <div class="caption box">
+        <h3>@Model.TenDa</h3>
+        <div class="row">
+            <div class="col-sm-8 col-xs-6">
+                <p class="default-userProductList-CardList-price">@Model.GiaNhoNhat</p>
+            </div>
+
+            <div class="col-sm-4 col-xs-6">
+                <a asp-action="AddToCart" asp-controller="Cart" asp-route-maDa="@Model.MaDa" asp-route-SoLuong="1" class="btn default-userProductList-CardList-button pull-right" role="button">Add to Cart</a>
+                <br />
+                <a href="#" class="btn default-userProductList-CardList-button pull-right" style="margin-top:10px">HẾT HÀNG</a>
+            </div>
+            <div class="product">
+                <div class="vote">
+                    <a asp-action="DanhGiaSanPham" asp-controller="DanhGia" asp-route-maDa="@Model.MaDa"><img style="width:25px;height:25px;margin-right:7px;margin-right:3px" src="../ProductImages/ImagesDoan1/upvote.jpg" alt="Upvote"></a>
+                    <span class="vote-count">@Model.Vote</span>
+                    <a asp-action="DanhGiaSanPham2" asp-controller="DanhGia" asp-route-maDa="@Model.MaDa"><img style="width:25px;height:25px;margin-right:7px;margin-right:3px" src="../ProductImages/ImagesDoan1/downvote.jpg" alt="Downvote"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

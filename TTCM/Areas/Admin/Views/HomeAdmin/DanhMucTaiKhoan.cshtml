@@ -1,0 +1,74 @@
+﻿@using TTCM.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TAccount>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "DanhMucTaiKhoan";
+    Layout = "~/Areas/Admin/Views/Shared/LayoutAdmin.cshtml";
+}
+
+<h2>DanhMucTaiKhoan</h2>
+
+<p>
+    <a class="btn btn-gradient-success" asp-action="ThemTaiKhoanMoi">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                UserName
+            </th>
+            
+            <th>
+                Tên Khách Hàng
+            </th>
+            <th>
+                Số Điện Thoại
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Địa Chỉ
+            </th>
+            <th>
+                Role
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.TenKhachHang)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SoDienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role)
+            </td>
+            <td>
+                    <a class="btn btn-block btn-gradient-primary btn-lg font-weight-medium" asp-action="SuaTaiKhoan" asp-route-maKH="@item.MaKhachHang">"Edit</a> |
+                    <a class="btn btn-block btn-gradient-primary btn-lg font-weight-medium" asp-action="XoaTaiKhoan" asp-route-maKH="@item.MaKhachHang">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model,page => Url.Action("DanhMucTaiKhoan", new {	page=page}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+	LiElementClasses = new List<String> {"page-item"},
+	PageClasses = new List<String> {"page-link"}
+    })
